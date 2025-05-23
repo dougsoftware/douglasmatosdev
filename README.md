@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working with front-end
-- 🌱 I’m currently learning PWA, back-end, Java, spring, spring boot
+- 🌱 I’m currently learning back-end, Java, Python, AI.
 - 😄 Pronouns: He/Him
 
  <br/>
