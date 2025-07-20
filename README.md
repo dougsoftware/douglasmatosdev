@@ -78,3 +78,9 @@
  
 ![Snake animation](https://github.com/dougsoftware/dougsoftware/blob/output/github-contribution-grid-snake.svg)
 
+
+## 🧠 Linguagens mais utilizadas
+
+<!-- LANGUAGES-START -->
+(essa seção será atualizada automaticamente)
+<!-- LANGUAGES-END -->
