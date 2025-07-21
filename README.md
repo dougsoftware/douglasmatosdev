@@ -84,8 +84,8 @@
 <!-- LANGUAGES-START -->
 - **HTML**: 3640983 bytes
 - **Java**: 2688997 bytes
-- **JavaScript**: 1350917 bytes
-- **TypeScript**: 1016848 bytes
+- **JavaScript**: 1352866 bytes
+- **TypeScript**: 1016678 bytes
 - **CSS**: 538140 bytes
 - **Jupyter Notebook**: 369984 bytes
 - **Python**: 124224 bytes
@@ -93,7 +93,7 @@
 - **C++**: 74740 bytes
 - **MDX**: 70138 bytes
 - **Hack**: 39704 bytes
-- **Shell**: 37947 bytes
+- **Shell**: 38432 bytes
 - **SCSS**: 27632 bytes
 - **Kotlin**: 21171 bytes
 - **Ruby**: 17356 bytes
